@@ -1,0 +1,5 @@
+import astropy.units as u
+from astropy.constants import G, h, k_B
+
+
+Reff = 12 * u.pc
